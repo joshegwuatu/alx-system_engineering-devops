@@ -10,3 +10,7 @@
 2-hellofile
 
 	Displays a file using less
+
+3-twofiles
+
+	Displays two files using less
