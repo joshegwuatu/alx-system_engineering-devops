@@ -14,3 +14,7 @@
 3-twofiles
 
 	Displays two files using less
+
+4-lastlines
+
+	DIsplays last ten lines of a file
