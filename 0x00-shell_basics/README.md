@@ -18,3 +18,12 @@
 
 7-movethatfile
 	This file moves betty
+
+8-firstdelete
+	Delete betty
+
+9-firstdirdeletion
+	Delect directory
+
+10-back
+	Move a folder backwards
