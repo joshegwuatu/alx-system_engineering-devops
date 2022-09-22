@@ -18,3 +18,15 @@
 4-lastlines
 
 	DIsplays last ten lines of a file
+
+5-firstlines
+
+	Displays the first ten lines of a file
+
+6-third_line
+
+	Displays the third line of iacta
+
+7-file
+
+	Creates a file 
