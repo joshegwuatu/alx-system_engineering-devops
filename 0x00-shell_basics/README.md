@@ -12,3 +12,6 @@
 
 4-listmorefiles
 	This file displays the list of files in a direstory including hidden files
+
+5-listfilesdigitonly
+	This file list all files with numerical user and group numbers
