@@ -9,3 +9,6 @@
 
 3-listfiles
 	This file displays the list of files in a directory in a long format
+
+4-listmorefiles
+	This file displays the list of files in a direstory including hidden files
