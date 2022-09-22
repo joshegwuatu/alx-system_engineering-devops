@@ -15,3 +15,6 @@
 
 5-listfilesdigitonly
 	This file list all files with numerical user and group numbers
+
+7-movethatfile
+	This file moves betty
