@@ -27,3 +27,9 @@
 
 10-back
 	Move a folder backwards
+
+11-lists
+	This list content of different directories
+
+12-file_type
+	Print the file type of iamafile
